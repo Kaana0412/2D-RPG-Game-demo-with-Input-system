@@ -1,17 +1,4 @@
 # 2D-RPG-Game-demo-with-Input-system
-## Development Goals | 开发目标
-
-- Practice Unity 2D game development workflow  
-- Learn and apply C# scripting in a real project  
-- Build a complete combat-based gameplay loop  
-- Improve understanding of FSM, Input System, animation, and UI implementation  
-
-- 练习 Unity 2D 游戏开发的完整流程  
-- 在实际项目中学习并应用 C# 脚本开发  
-- 搭建一个完整的战斗玩法闭环  
-- 提升对有限状态机、Input System、动画系统和 UI 实现的理解  
-
----
 
 ## Core Features | 核心功能
 
